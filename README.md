@@ -1,6 +1,6 @@
-# Mike
+# Mike-KR 🇰🇷
 
-Open-source release containing the Mike frontend and backend.
+**This is a Korean localized version of the original [Mike](https://github.com/willchen96/mike) project.** This repository adapts the frontend and backend to support Korean language processing and localized features.
 
 ## Contents
 
